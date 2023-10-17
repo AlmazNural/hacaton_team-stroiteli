@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-like",
+        "count": "83%",
+        "title": "Успеваемость"
+    },
+    {
+        "icon": "bx bx-walk",
+        "count": "7/10",
+        "title": "Активность"
+    },
+    {
+        "icon": "bx bx-laugh",
+        "count": "4",
+        "title": "Друзья"
+    },
+    {
+        "icon": "bx bx-git-merge",
+        "count": "2",
+        "title": "Проекты"
+    }
+]

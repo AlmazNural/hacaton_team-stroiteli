@@ -1,0 +1,27 @@
+[
+    {
+        "display_name": "Достижения",
+        "route": "/",
+        "icon": "bx bx-unite"
+    },
+    {
+        "display_name": "Студенты",
+        "route": "/customers",
+        "icon": "bx bx-user-pin"
+    },
+    {
+        "display_name": "Общий чат",
+        "route": "/chat",
+        "icon": "bx bx-edit"
+    },
+    {
+        "display_name": "Расписание",
+        "route": "/orders",
+        "icon": "bx bx-pencil"
+    },
+    {
+        "display_name": "Мероприятия",
+        "route": "/analytics",
+        "icon": "bx bx-cookie"
+    }
+]
